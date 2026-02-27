@@ -19,3 +19,4 @@ function isOdd(num){
 } 
 let result_of_num= isOdd(25)
 console.log(result_of_num);
+
