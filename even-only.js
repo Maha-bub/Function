@@ -18,8 +18,10 @@ function evenNumbersOnly(numbers){
 
 
 let numbers=[12,41,25,42,11,31]
-// const evens = evenNumbersOnly(numbers);
-// console.log("Even numbers array:", evens);
+const evens = evenNumbersOnly(numbers);
+console.log("Even numbers array:", evens);
+
+
 function sumOfEvenNumbers (numbers){
     let sum=0;
     for (const number of numbers){
